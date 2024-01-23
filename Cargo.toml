@@ -1,0 +1,15 @@
+[package]
+name = "digit"
+version = "0.1.0"
+authors = ["Peter MIKOLA <mikopet@gmail.com>"]
+edition = "2021"
+
+description = "A simple lib for converting digits backand forth"
+readme = "README.md"
+repository = "https://github.com/Mikopet/digit"
+license = "MIT"
+
+keywords = ["digit", "number", "emoji", "convert"]
+categories = ["command-line-interface", "data-structures", "encoding", "value-formatting"]
+
+[dependencies]
